@@ -41,7 +41,7 @@ if (!is_null($events['events'])) {
 			curl_close($ch);
 
 			echo $result . "\r\n";
-		}else $text = $event['message']['text'];
+		}else $text = $event['message']['text']== เป็นไงบ้าง;
                         // Get replyToken
                         $replyToken = $event['replyToken'];
                         // Build message to reply back
