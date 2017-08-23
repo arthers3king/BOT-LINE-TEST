@@ -1,12 +1,12 @@
 {
   "events": [
       {
-        "replyToken": "pcAXV1P5Zz1B3ptcbkagTBMY1oaTTFYIQQWsW8jluVFnvJx3dImhgAzzmpmdgTJH+yayuggit1UJ9I6lKdYjyclHyLfE/YUe8/1fesCA6NbTVMgyigsmqSevfJ8+HP6ANpUSnoGXroRxYt/PtK8fdwdB04t89/1O/w1cDnyilFU=",
+        "replyToken": "nHuyWiB7yP5Zw52FIkcQobQuGDXCTA",
         "type": "message",
         "timestamp": 1462629479859,
         "source": {
              "type": "user",
-             "userId": "U2fdfed74441e474c1b103d0ff3ae35dd "
+             "userId": "U206d25c2ea6bd87c17655609a1c37cb8"
          },
          "message": {
              "id": "325708",
